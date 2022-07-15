@@ -1,0 +1,12 @@
+{
+"name":"#DistribuidoraArbell",
+"short_name":"#Distribuidora Arbell",
+"description":"Bienvenid@sa#Distribuidora Arbell,si eres miembro podras realizar tus pedidos aqui :)",
+"background_color":"#2B2B2B",
+"theme_color":"#FODB4F",
+"orientation":"portrait",
+"display":"standalone",
+"start_url":"./?utm_source=web_app_manifest",
+"scope":"./",
+"lang":"es-BO"
+}

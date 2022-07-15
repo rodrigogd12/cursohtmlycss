@@ -1,0 +1,50 @@
+/* div{
+    color: red;
+    font-size: 32px;
+} */
+
+/* .cuadrado{
+    height: 10cm;
+    width: 10cm;
+    background-color: steelblue;
+    color: white;
+    border: 2px solid black;
+} */
+
+ /* selector universal */
+/* *{
+    background-color: rebeccapurple;
+} */ 
+
+body{/* selector son globales */
+    background-color: white;
+    font-family: arial;
+}
+
+
+
+/* 
+li{
+    color: blueviolet;
+    font-size: 1em;
+}
+h2{
+    color: red;
+} */
+
+/* selector de clase */
+.pelicula{
+    color: blueviolet;
+}
+.serie{
+    color: aquamarine;
+}
+
+/* selector de id */
+#temporada3{
+    font-size: 25px;
+    color: brown;
+    text-decoration: underline;
+}
+
+
